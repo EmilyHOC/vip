@@ -1,0 +1,137 @@
+@charset 'utf-8';
+
+.header{
+    width:100%;
+}
+.header-info{
+    width: 100%;
+    height:32px;
+    background: #f5f5f5;
+
+}
+.customer_info li{
+    float: right;
+    list-style: none;
+    padding: 6px ;
+    margin: 3px 10px;
+}
+.city{
+    margin-left: 20px;
+    padding: 6px ;
+
+
+}
+.nav{
+    float: right;
+    width: 948px;
+    height: 32px;
+}
+.search{
+    float: right;
+    width: 582px;
+}
+.search input{
+    margin: 36px 24px 39px 0px;
+    border-radius: 8px;
+    width: 419px
+}
+.search button{
+    border-radius: 8px;
+    width: 132px;
+}
+.sure_3{
+    width: 420px;
+    margin:36px 297px 39px 50px;
+    float: left;
+}
+.sure_3 li{
+    list-style: none;
+    float: left;
+    margin-left: 50px;
+    line-height:32px;
+
+   }
+.sure{
+    width:420px;
+    height: 125px;
+    float: left;
+}
+.nav-bar{
+    height: 50px;
+    width: 100%;
+    background-color:#f10180;
+    margin: 2px;
+    float:left;
+}
+#content{
+   height: 779px;
+}
+.nav-bar li{
+    list-style: none;
+    float: left;
+    padding-left: 35px;
+    margin: 12px ;
+    color: white;
+    font-weight: 700;
+    cursor: default;
+}
+.main-nav{
+    width: 100%
+}
+.banner{
+    height: 562px;
+    width: 100%
+}
+.index-new-title{
+    text-align: center;
+    margin: 10px 0 25px;
+    height: 30px;
+}
+.miaosha{
+    float: left;
+    padding:564px 564px 20px 103px;
+    width:356px;
+    height:48px;
+}
+.item{
+    width: 2000px;
+    height: 266px;
+
+    float: right;
+    padding:698px 76px 49px 921px;
+    position: absolute;
+    margin:15px 99px 34px -2px;
+}
+.item span{
+    padding: 42px;
+}
+.newpeople{
+    position: absolute;
+    padding: 520px;
+    width: 100%;
+    padding: 677px;
+
+}
+#contain2{
+    width: 100%
+    height:50%;
+}
+.now{
+    padding: 154px;
+    text-align: center;
+    width:385px;
+}
+.newp{
+    position: absolute;
+    margin: 768px 500px 10px 260px;
+    float: left;
+}
+.main-sold{
+    position: absolute;
+}
+.main-sold-first{
+    border: 1px solid #c79797;
+    width: 278px;
+    height: 300px;
+
+}
